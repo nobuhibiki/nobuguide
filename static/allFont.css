@@ -1,0 +1,36 @@
+@font-face {
+    font-family: picaflor;
+    src: url(Picaflor-12pt.woff2);
+}
+
+@font-face {
+    font-family: nyghtserif;
+    src: url(NyghtSerif-Regular.woff2);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: nyghtserif;
+    src: url(NyghtSerif-RegularItalic.woff2);
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: nyghtserif;
+    src: url(NyghtSerif-Dark.woff2);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: nyghtserif;
+    src: url(NyghtSerif-BoldItalic.woff2);
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+@font-face {
+    font-family: spacegrotesk;
+    src: url(SpaceGrotesk-VariableFont_wght.woff2);
+}
